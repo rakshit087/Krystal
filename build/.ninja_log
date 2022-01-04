@@ -1,0 +1,8 @@
+# ninja log v5
+1	583	1641278572063975816	com.github.rakshit087.Krystal@exe/src/Main.c	a4f18b717b9b5daf
+1	583	1641278572063975816	com.github.rakshit087.Krystal@exe/src/Widgets/Window.c	a4f18b717b9b5daf
+1	583	1641278572063975816	com.github.rakshit087.Krystal@exe/src/Application.c	a4f18b717b9b5daf
+583	1259	1641278572823965424	com.github.rakshit087.Krystal@exe/meson-generated_src_Main.c.o	312d53cde55d9bad
+584	1264	1641278572831965315	com.github.rakshit087.Krystal@exe/meson-generated_src_Application.c.o	21f9b35f34145e69
+584	1267	1641278572835965260	com.github.rakshit087.Krystal@exe/meson-generated_src_Widgets_Window.c.o	aaa6043f94c2aaa2
+1267	1457	1641278573027962637	com.github.rakshit087.Krystal	91c81c74171083ed
